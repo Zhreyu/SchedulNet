@@ -91,29 +91,6 @@ Key Improvements:
 - [ ] Multi-agent coordination
 - [ ] Real workload testing
 
-## Findings
-
-1. Traditional Algorithms:
-   - Fast and predictable
-   - Well-suited for stable workloads
-   - Limited adaptation to changing conditions
-
-2. LLM Agents:
-   - Too slow for real-time decisions
-   - Good at complex reasoning
-   - Not practical for OS scheduling
-
-3. DQN Agents:
-   - Fast decision making
-   - Good memory management
-   - Inconsistent performance
-
-4. PPO Agents:
-   - Most stable performance
-   - Best memory management
-   - Still needs work on disk scheduling
-   - Better handling of fairness
-
 ## Next Steps
 
 1. Implement more sophisticated RL architectures
