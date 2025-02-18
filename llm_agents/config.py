@@ -3,7 +3,7 @@
 import os
 
 # GitHub API configuration
-GITHUB_API_KEY = "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"
+GITHUB_API_KEY = "NEVER WORKS"
 GITHUB_API_URL = "https://api.github.com/graphql"
 
 # OpenAI configuration
